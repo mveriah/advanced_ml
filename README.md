@@ -9,6 +9,8 @@ The projects include:
 4. Generative Adversarial Networks (GAN)
 5. Ensemble methods
 
+Below are details of the respective projects. 
+
 ## 1. Deep Nueral Networks 
 ## 2. Convolutional Neural Networks (CNN)
 ## 3. Recurrent Neural Networks (RNN)
